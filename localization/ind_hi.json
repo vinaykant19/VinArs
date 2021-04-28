@@ -1,0 +1,51 @@
+{
+  "ErrorText" :  {
+    "AlreadyLoggedIn"  : "Already logged-in",
+    "InternalError" : "Internal server error",
+    "InvalidAuthorization": "अमान्य प्राधिकरण",
+    "InvalidInput" : "input param are not valid",
+    "EmailEmpty": "ईमेल जरुरी है",
+    "EmailInvalid": "Email is invalid",
+    "EmailDuplicate": "Email is already registered",
+    "MobileEmpty": "Mobile number is required",
+    "PasswordEmpty": "Password is required",
+    "NameEmpty": "Name is required",
+    "FirstNameEmpty": "First name is required",
+    "LastNameEmpty": "Last name is required",
+    "GenderEmpty": "Gender is required",
+    "Address1Empty": "Address Line 1 is required",
+    "AddressEmpty": "Address is required",
+    "CityEmpty": "City is required",
+    "CountryEmpty": "Country is required",
+    "InvalidHash": "Invalid hash code",
+    "NotFound": "पेज नहीं मिला",
+    "InactiveUser" : "User is not activated yet",
+    "PermissionDenied" : "You are not allowed to perform this operation",
+    "AdtyEmpty": "Address type is required",
+    "InvalidFileType": "Invalid File Type",
+    "InvalidFile": "Invalid File",
+    "FileMaxSizeLimit": "File Max Size Limit exceed",
+    "FileUploadLimit": "File Upload Limit exceed",
+    "ImageUrlEmpty":  "Image Url is Empty",
+    "ProductConnectionEmpty":  "Product Connection Empty"
+  },
+  "EmailText" : {
+    "RegistrationConfirm": "",
+    "Welcome": "",
+    "SubjectConfirmYourRegistration" : "Confirm your registration with -----",
+    "ConfirmYourRegistrationEmailText": "Hello <b> #{NAME}#</b>,<br>Please confirm your email address for your request to register with COMPANY_NAME. <br>Please click to the below link <br> <br> <a href='#{LINK}#'>#{LINK}#</a>  <br> <br> <i>Yours</i> <br> Support team",
+    "SubjectResetPasswordRRequest": "Reset Password RRequest on -----",
+    "ResetPasswordRRequestEmailText": "Hello <b> #{NAME}#</b>,<br>You have requested password reset for your account on COMPANY_NAME. <br>Please click to the below link to regenerate a new password<br> <br> <a href='#{LINK}#'>#{LINK}#</a> <br><br>if this is not requested by you then please ignore this and contact us. <br> <br> <i>Yours</i> <br> Support team"
+  },
+  "MessageText": {
+    "ThankYou": "Thank you",
+    "LoggedOut": "Logged-out",
+    "LoggedIn":  "Logged-In",
+    "RegisteredSuccessfully": "Registered Successfully",
+    "ConfirmationLinkSentToYourEmail": "Confirmation link sent to your email",
+    "UserConfirmedSuccessfully":  "User Confirmed Successfully",
+    "PasswordUpdatedSuccessfully": "Password Updated Successfully",
+    "ProductImageAdded": "Product Image Added",
+    "ProductImageRemoved": "Product Image Removed"
+  }
+}
